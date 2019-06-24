@@ -1,0 +1,32 @@
+{
+    "id": "b06d3aa0-664f-4935-88c7-321f11596f00",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "b06d3aa0-664f-4935-88c7-321f11596f00",
+    "children": [
+        "6d0b14f3-4102-4e03-9925-9ecfa71b526e",
+        "9a906fbd-daf9-4a9d-8b2f-d3c0cdd034f6",
+        "fe708d4f-584d-4d58-bca3-cfdc0191bf9e",
+        "a5d9b704-5a41-49ad-a824-d7b1ce87c07e",
+        "df858bb6-5dd1-48cc-aacf-6cdae91e0631",
+        "b99f2cdb-5fed-460f-b71c-6021206c1d6b",
+        "ec5ccab2-3830-4259-950e-4e229d7cdcac",
+        "090e507a-8367-433e-8abd-a903fd28be8d",
+        "ae46057e-9dbc-4e61-9515-92daec712bde",
+        "8e280776-2afc-45df-b3e7-0b36785f1616",
+        "209ff6eb-bbb5-4ab0-af98-310fb44a804d",
+        "25992363-7136-4766-84d4-4c3471fde561",
+        "66eb4b8c-be88-4e55-804e-249a76a88ad1",
+        "aee57f8a-3fe2-44c7-b0ab-b8390f01e0e4",
+        "66d6b0a1-1f09-41b4-bb0a-e124c4c2b97a",
+        "f54c8fb9-d8b7-4f81-83e9-10d650659c56",
+        "df48477a-8a68-4c6c-a105-58479beff79a",
+        "c517a7bd-3a84-4a09-b452-3f0a8364c1a2",
+        "1e59a0ee-b594-4153-b95a-3c7806d57483",
+        "8043440b-79f5-4285-bf12-9f3c1492a6f9"
+    ],
+    "filterType": "GMSound",
+    "folderName": "sounds",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Sounds"
+}

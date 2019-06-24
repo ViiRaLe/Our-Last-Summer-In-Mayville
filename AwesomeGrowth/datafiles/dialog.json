@@ -1,0 +1,114 @@
+{
+        "1:cameretta1":
+[
+"1: E' ora di raggiungere gli altri! Devo solo cambiarmi prima di uscire."
+],
+
+        "2:cameretta2":
+[
+        
+"1 : Devo andare! Qualcuno da qualche parte sta commettendo un crimine!"
+],
+
+        "3:arriva louis":
+[
+"2: Ciao B.J.!",
+"1: Ciao! Dai muoviamoci, è ora di andare!",
+"2: Certo! Ti stavo aspettando... andiamo a defantasmizzare Mayville!"
+],
+
+        "4:sam sul terrazzo":
+[
+"3: Eccovi finalmente! Non vedevo l'ora che arrivaste!"
+],
+
+        "5:arriva sam":
+[        
+"3: Okay! Siete pronti?",
+"1: Certo Samantha... ehm scusa, Sam!!",
+"3: Mmmmmmm... non sbagliare più!",
+"2: Cosa andiamo a cercare oggi Sam?",
+"3: Fortuna e gloria, ragazzo... fortuna e gloria!",
+"1: Ma prima, andiamo a chiamare Tommy?",
+"2: Sì! la sua casa è l'ultima del paese, ai margini della foresta.",
+"3: Bene, andiamo! ALL'AVVENTURA!"
+],
+
+        "6:arriva mamma di tommy":
+[        
+"4: Ciao ragazzi! Cercate Tommy?",
+"2: Sì! Dobbiamo andare tutti insieme a cercare fortuna e gloria!",
+"3: Esattamente!",
+"4: Tommy è uscito poco fa.",
+"4: Uscendo ha detto che sarebbe venuto con voi...",
+"4: Quindi forse vi sta già aspettando alla vostra casetta sull'albero!",
+"1: E' già andato? Senza di noi?",
+"4: Eh già!",
+"3: Okay grazie, allora prima di cercare fortuna e gloria, cercheremo Tommy!",
+"4: Hahaha! D'accordo ragazzi!",
+"4: Mi raccomando non avvicinatevi alla vecchia segheria!",
+"4: E ricordate: tornate a casa prima del tramonto!",
+"2: Certo, come sempre. Ciao!",
+"3: Forza ragazzi, dobbiamo recuperare il nostro compagno di squadra!",
+"1: ALL'AVVENTURA!"
+],
+
+        "7:vedono le impronte":
+[
+"1: Ma Tommy non c'è!",
+"2: Strano, dovrebbe essere qui!",
+"3: Guardate ragazzi, ci sono delle impronte!",
+"1: Mh... potrebbero essere di Tommy!",
+"3: Sono sicuramente sue! Andiamo, dobbiamo trovarlo!",
+"2: Ma è quasi buio ormai... forse dovremmo tornare indietro...",
+"1: Sì, dobbiamo avvisare la mamma di Tommy...",
+"3: Che dite?!?",
+"3: Il nostro compagno è sicuramente in pericolo...",
+"3: Dobbiamo correre a cercarlo!",
+"2: Ma il buio mi fa p...",
+"3: Siamo eroi! Non abbiamo paura del buio! ",
+"3: Forza ragazzi!",
+"3: Nei nostri film preferiti gli eroi non si fermano davanti a nulla!",
+"1: Sam ha ragione! Louis, ci faremo coraggio a vicenda!",
+"1: ... detto questo, se vedo le sorelle di “Shining” io scappo.",
+"2: Wow! Tua mamma ti lascia vedere “Shining”?",
+"1: No, ma di nascosto guardo i film da grandi con mio fratello Dwayne.",
+"2: Uuuu! Allora un giorno vengo a casa tua così poss...",
+"3: Ragazzi, Tommy è sicuramente in pericolo! Dobbiamo andare.",
+"2: Sì... Tommy farebbe lo stesso per me..."
+],
+
+        "8:trovano il cappello":
+[
+"3: E' il cappello di Tommy! L'avevo detto che erano sue le impronte!",
+"1: Povero Tommy, è da solo in questo buio!",
+"3: E' sicuramente entrato nella vecchia segheria.",
+"2: Che strano, le nostre mamme ci hanno sempre vietato di andarci.",
+"1: Dobbiamo trovarlo e riportarlo a casa!",
+"2: Se mia madre lo scopre mi ammazza...",
+"3: Non diremo a nessuno che ci siamo stati. Andiamo!",
+"2: ALL'AVVENTURA!"
+
+],
+
+        "9:finale":
+[
+"2: Cos'è Sam?",
+"1: Tommy?"
+],
+
+    "10:finale2":
+[
+    "2: ...",
+    "1: ...",
+"3: Tommy..."
+],
+
+"11:scale":
+[
+    "1: Wow! Che paura",
+    "1: E' così alto!",
+	"2: Sam vacci tu, se la più coraggiosa"
+],
+
+}
