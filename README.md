@@ -12,3 +12,5 @@ Designers: 5
 Artists: 3
 
 ## Winner of BEST ART
+
+# [RELEASE](https://github.com/ViiRaLe/Our-Last-Summer-In-Mayville/releases)
